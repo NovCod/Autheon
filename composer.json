@@ -1,0 +1,20 @@
+{
+    "name": "novocod/php-autheon",
+    "description": "A powerful and easy-to-integrate PHP login and registration system.",
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "NovoCodes",
+            "email": "contact@novocodes.com"
+        }
+    ]
+}
